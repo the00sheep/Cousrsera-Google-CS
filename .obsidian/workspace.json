@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "c6435d232a01f4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "646fe3a84958c8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b7c29e4476f9100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49aebe89feb69c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e183831eabd37bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09f560b924b59a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f118c0cbb8c13dbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SOCs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f55812b687a9d62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc63369d97cce4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "83507060e2948495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a7b3271b449e94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d824e86ff8758f8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e41b62534de5908",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "763bd6778416bf07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0b7c29e4476f9100",
+  "lastOpenFiles": [
+    "Play It Safe Manage Security Risks/Glossary Course 2.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/1. Phases of an incident response playbook.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/Glossary terms from module 4.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/4. Use a playbook to respond to threats, risks, or vulnerabilities.md",
+    "Play It Safe Manage Security Risks/Week 1 Security Domains/2. Security domains cybersecurity analysts need to know.md",
+    "readme.txt",
+    "New Text Document.txt",
+    "Play It Safe Manage Security Risks/Week 1 Security Domains/1. CISSP security domains.md",
+    "Play It Safe Manage Security Risks/Week 1 Security Domains",
+    "Play It Safe Manage Security Risks/Week 2 Security Audits CIA, CSF, OWASP/1.1 More about OWASP security principles.md",
+    "Play It Safe Manage Security Risks/Week 2 Security Audits CIA, CSF, OWASP/1. CIA CSF OWASP.md",
+    "Play It Safe Manage Security Risks/Week 2 Security Audits CIA, CSF, OWASP/4. Audit checklist.md",
+    "Play It Safe Manage Security Risks/Week 2 Security Audits CIA, CSF, OWASP/3. More about security audits.md",
+    "Play It Safe Manage Security Risks/Week 2 Security Audits CIA, CSF, OWASP/2. Security Audits.md",
+    "Play It Safe Manage Security Risks/Week 2 Security Audits CIA, CSF, OWASP",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/3. Phases of incident response.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/2. More about playbooks.md",
+    "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/TLDR.md",
+    "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/More about cybersecurity tools.md",
+    "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/Glossary terms from module 3.md",
+    "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/Use SIEM tools to protect organizations.md",
+    "incident review dashboard.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks",
+    "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools",
+    "Play It Safe Manage Security Risks"
+  ]
+}
