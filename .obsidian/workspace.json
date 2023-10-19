@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "646fe3a84958c8c3",
+        "id": "fb3587476d6e88b4",
         "type": "tabs",
         "children": [
           {
-            "id": "0b7c29e4476f9100",
+            "id": "bf22e24f2c4c34b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b7c29e4476f9100",
+  "active": "bf22e24f2c4c34b3",
   "lastOpenFiles": [
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/4. Cloud Networks.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/6. TCP IP model.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/8. IP MAC, Components of network layer communication.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/Glossary Module 1.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/5. Network Communication.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/7. OSI model.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/3. Network components, devices, and diagrams.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/2. Network tools.md",
+    "Connect and Protect Networks and Network Security/img",
+    "Connect and Protect Networks and Network Security/img/Pasted image 20231006111558.png",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks/1. What are networks.md",
+    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
+    "Connect and Protect Networks and Network Security/Week 1 Introduction to networks",
+    "Connect and Protect Networks and Network Security",
     "Play It Safe Manage Security Risks/Glossary Course 2.md",
     "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/1. Phases of an incident response playbook.md",
     "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/Glossary terms from module 4.md",
-    "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/5. Playbooks, SIEM tools, and SOAR tools.md",
     "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks/4. Use a playbook to respond to threats, risks, or vulnerabilities.md",
     "Play It Safe Manage Security Risks/Week 1 Security Domains/2. Security domains cybersecurity analysts need to know.md",
     "readme.txt",
@@ -169,8 +174,6 @@
     "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/TLDR.md",
     "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/More about cybersecurity tools.md",
     "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/Glossary terms from module 3.md",
-    "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools/Use SIEM tools to protect organizations.md",
-    "incident review dashboard.md",
     "Play It Safe Manage Security Risks/Week 4 Phases of incident response playbooks",
     "Play It Safe Manage Security Risks/Week 3 Introduction to cybersecurity tools",
     "Play It Safe Manage Security Risks"
