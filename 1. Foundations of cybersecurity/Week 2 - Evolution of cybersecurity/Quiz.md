@@ -1,0 +1,12 @@
+![[Pasted image 20231208114422.png]]
+![[Pasted image 20231208114436.png]]
+![[Pasted image 20231208114452.png]]
+![[Pasted image 20231208114505.png]]
+
+![[Pasted image 20231208115221.png]]
+![[Pasted image 20231208115233.png]]
+![[Pasted image 20231208120651.png]]
+![[Pasted image 20231208115250.png]]
+![[Pasted image 20231208115300.png]]![[Pasted image 20231208115944.png]]
+![[Pasted image 20231208115958.png]]
+![[Pasted image 20231208120015.png]]
